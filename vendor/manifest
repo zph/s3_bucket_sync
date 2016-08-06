@@ -1,0 +1,44 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/aws/aws-sdk-go",
+			"repository": "https://github.com/aws/aws-sdk-go",
+			"revision": "5f1600d670430842d2d8f8c2c4652b6236b29026",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/go-ini/ini",
+			"repository": "https://github.com/go-ini/ini",
+			"revision": "9144852efba7c4daf409943ee90767da62d55438",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/jmespath/go-jmespath",
+			"repository": "https://github.com/jmespath/go-jmespath",
+			"revision": "bd40a432e4c76585ef6b72d3fd96fb9b6dc7b68d",
+			"branch": "master"
+		},
+		{
+			"importpath": "golang.org/x/tools/go/ast/astutil",
+			"repository": "https://go.googlesource.com/tools",
+			"revision": "72064bd64745c21ad7fe43d550d08e8f07bf4f73",
+			"branch": "master",
+			"path": "/go/ast/astutil"
+		},
+		{
+			"importpath": "golang.org/x/tools/go/buildutil",
+			"repository": "https://go.googlesource.com/tools",
+			"revision": "72064bd64745c21ad7fe43d550d08e8f07bf4f73",
+			"branch": "master",
+			"path": "/go/buildutil"
+		},
+		{
+			"importpath": "golang.org/x/tools/go/loader",
+			"repository": "https://go.googlesource.com/tools",
+			"revision": "72064bd64745c21ad7fe43d550d08e8f07bf4f73",
+			"branch": "master",
+			"path": "/go/loader"
+		}
+	]
+}
